@@ -24,4 +24,4 @@ The engineered model achieved higher accuracy than the baseline model, demonstra
 All preprocessing steps are implemented using sklearn Pipelines.
 
 ## Author
-Student Machine Learning Project
+Hessah Alkhalifah
