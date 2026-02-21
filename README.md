@@ -1,4 +1,3 @@
-# titanic-feature-engineering-pipeline
 # Titanic Survival Prediction — Feature Engineering Pipeline
 
 ## Objective
